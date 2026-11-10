@@ -1,0 +1,183 @@
+City Name,Area Name,Day-Month-Year,Ward No.,Ward Name,Type of hospital_PrivateorPublic,Longitude,Latitude,Total no. of beds,Number of COVID beds,Number of ICU beds,Number of ventilators or ABD
+Kalyan Dombivali,DOMBIVLI West,44573,63,Kopar Road,Apurva Hospital Private,73.13,19.236,15.0,,,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Life Line Hospital Private,73.13,19.236,23.0,,6.0,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Apex Hospital Private,73.13,19.236,26.0,,4.0,1.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Apple Hospital Private,73.13,19.236,27.0,10.0,9.0,3.0
+Kalyan Dombivali,DOMBIVLI West,44573,59,Kanhoji Jedhe Maidan,Spandan Hospital Private,73.13,19.236,22.0,8.0,4.0,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Shree Sadguru Hospital Private,73.13,19.236,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,59,Kanhoji Jedhe Maidan,Ozon Hospital Private,73.13,19.236,30.0,15.0,8.0,2.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Harne Hospital,,,15.0,0.0,3.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Renuka Hospital,,,17.0,0.0,5.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,63,Kopar Road,Sai Shradha Hospital,,,10.0,0.0,2.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,,Shastri Nagar,Venus Hospital,,,30.0,0.0,8.0,1.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Jidda Hospital,,,,0.0,,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Mahalaxmi Hospital,,,14.0,0.0,3.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Indira Nursing Home,,,16.0,0.0,4.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,,Devi Chowk,Uma Shankar Nursing Home,,,10.0,0.0,2.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,,Shastri Nagar,Aai Nursing Home,,,7.0,0.0,1.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Ankur Hospital,,,12.0,0.0,1.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,,Shastri Nagar,Joshi Hospital,,,,0.0,2.0,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Anand Medical Foundation,,,,0.0,,0.0
+Kalyan Dombivali,DOMBIVLI West,44573,,Anand Nagar,Sawant Hospital,,,9.0,0.0,2.0,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Suyash Hospital,,,5.0,,1.0,
+Kalyan Dombivali,DOMBIVLI West,44573,,Shastri Nagar,Krsanaa Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,,Shastri Nagar,Akshta Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Baitule Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,,Anand Nagar,Varun Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,,Shastri Nagar,Medicare Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,,Devi Chowk,Tanmay Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Snehal Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Clinic Path Lab,,,,,,
+Kalyan Dombivali,DOMBIVLI West,44573,61,Vishnu Nagar,Swanand Lab,,,,,,
+Kalyan Dombivali,dombivali,44574,66,ayaregao,shatayu hospital,19.209,73.08,16.0,6.0,2.0,1.0
+Kalyan Dombivali,dombivali,44575,67,mhatrenagar,city care hospital,19.213,73.08,15.0,0.0,4.0,2.0
+Kalyan Dombivali,dombivali,44578,68,ramnagar,shriram hospital,19.215,73.08,21.0,0.0,6.0,2.0
+Kalyan Dombivali,dombivali,44579,68,ramnagar,sanjivani hospital,19,73.09,17.0,0.0,1.0,0.0
+Kalyan Dombivali,dombivali,44580,68,ramnagar,laxmi hospital,19.2,73.09,23.0,0.0,1.0,1.0
+Kalyan Dombivali,dombivali,44581,68,ramnagar,noble hospital,19.2,73.09,75.0,45.0,10.0,4.0
+Kalyan Dombivali,dombivali,44582,68,ramnagar,om hospital,19.2,73.09,24.0,0.0,4.0,1.0
+Kalyan Dombivali,dombivali,44583,68,ramnagar,oak hospital,19.2,73.09,,,,
+Kalyan Dombivali,dombivali,44584,68,ramnagar,anupam hospital,19.2,73.09,15.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44585,68,ramnagar,abhyankar hospital,19.2,73.09,15.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44586,68,ramnagar,shree childrens hospital,19.214,73.09,11.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44587,68,ramnagar,chiranjivi childrens hospital,19.214,73.088,15.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44588,68,ramnagar,ishwar hospital,19.214,73.088,22.0,15.0,7.0,2.0
+Kalyan Dombivali,dombivali,44589,68,ramnagar,gharda hospital,19.217,73.089,15.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44590,68,ramnagar,heramb eye hospital,19.216,73.087,2.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44591,68,ramnagar,sarth netralaya,19.214,73.087,2.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44592,68,ramnagar,dandekar hospital,19.215,73.09,17.0,0.0,0.0,1.0
+Kalyan Dombivali,dombivali,44593,68,ramnagar,ensure eye hospital,19.215,73.09,2.0,0.0,0.0,0.0
+Kalyan Dombivali,dombivali,44594,68,ramnagar,saijyot hospital,19.215,73.088,25.0,8.0,6.0,1.0
+Kalyan Dombivali,KALYAN EAST,44573,73,NETIVALI METRO,STARCITY,19.2246,73.1259,50.0,20.0,11.0,2.0
+Kalyan Dombivali,KALYAN EAST,44573,43,NETIVALI METRO,PADMABAI,19.224011,73.12363,42.0,20.0,22.0,1.0
+Kalyan Dombivali,KALYAN EAST,44573,99,AMRAI,GURUPREET,,,16.0,16.0,2.0,2.0
+Kalyan Dombivali,KALYAN EAST,44573,100,TISGAON GAVTHAN,AYUSHYAMAN HOSPITA,,,24.0,,5.0,
+Kalyan Dombivali,KALYAN EAST,44573,98,VIJAY NAGAR,VITTHAL KRUPA,19.226811,73.135412,30.0,23.0,7.0,2.0
+Kalyan Dombivali,KALYAN EAST,44573,87,SHASTRINAGAR,AMEY HOSPITAL,19.223658,73.125658,12.0,,2.0,
+Kalyan Dombivali,KALYAN EAST,44573,87,SHASTRINAGAR,BHANUSHALI HOSPITAL,,,20.0,1.0,,
+Kalyan Dombivali,KALYAN EAST,44573,88,SANTOSH NAGAR,ASHIRWAD HOSPITAL,19.224817,73.1315,16.0,,,
+Kalyan Dombivali,KALYAN EAST,44573,99,AMRAI,SUMANGAL HOSPITAL,19.219014,73.139333,50.0,,1.0,
+Kalyan Dombivali,KALYAN EAST,44573,100,TISGAON GAVTHAN,TISAI HOPSITAL,,,16.0,,3.0,
+Kalyan Dombivali,KALYAN EAST,44573,87,SHASTRINAGAR,LIFECARE HOSPITAL,19.224341,73.127519,25.0,,3.0,
+Kalyan Dombivali,KALYAN EAST,44573,98,VIJAY NAGAR,SADGURUKRUPA HOSPITAL,19.215727,73.143007,20.0,,,
+Kalyan Dombivali,KALYAN EAST,44573,98,VIJAY NAGAR,SHREYASH KASALE HOSPITAL,19.219013,73.139335,25.0,,,
+Kalyan Dombivali,KALYAN EAST,14/1/2022,87,SHASTRINAGAR,MITRA CHARITABLE TRUST HOSPITAL,19.22292,73.128153,50.0,,3.0,
+Kalyan Dombivali,KALYAN EAST,14/1/2022,98,VIJAY NAGAR,MANNSPARSH NEUROPSYCHIATRIC CENTER,19.224876,73.138357,10.0,,,
+Kalyan Dombivali,KALYAN EAST,14/1/2022,88,SANTOSH NAGAR,HERAMBA EYE HOSPITAL,19.224918,73.138435,,,,
+Kalyan Dombivali,KALYAN EAST,14/1/2022,100,TISGAON GAVTHAN,ANKUR HOSPITAL,,,17.0,,,
+Kalyan Dombivali,KALYAN EAST,14/1/2022,88,SANTOSH NAGAR,SHREE DATTA MULTI SPECIALIST HOSPITAL,19.224684,73.130584,22.0,22.0,4.0,1.0
+Kalyan Dombivali,KALYAN EAST,14/1/2022,87,SHASTRINAGAR,SHREE SEVA HOSPITAL,,,10.0,,,
+Kalyan Dombivali,KALYAN,44573,38,Rambaug Syndicate,RUKAMINIBAI HOSPITAL,0,0,120.0,5.0,0.0,0.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,KILBIL HOSPITAL,0,0,15.0,0.0,8.0,5.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,REMEDY HOSPITAL,0,0,21.0,13.0,5.0,1.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,SAI Leela HOSPITAL,0,0,15.0,,4.0,0.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,Shree Sai hospital,0,0,15.0,0.0,3.0,0.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,PRATIBHA HOSPITAL,0,0,12.0,0.0,1.0,0.0
+Kalyan Dombivali,KALYAN,44896,26,RAMBAUG,SATYAM HOSPITAL,0,0,9.0,0.0,2.0,1.0
+Kalyan Dombivali,KALYAN,44896,26,RAMBAUG,VIKASH HOSPITAL,0,0,15.0,8.0,2.0,0.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,yash hospital,0,0,12.0,2.0,5.0,1.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,siddi vinayak hospital,0,0,15.0,3.0,3.0,0.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,kaushalya hospital,0,0,15.0,0.0,0.0,0.0
+Kalyan Dombivali,KALYAN,44896,27,Flower Velly,Ganesh Memorial Hospital Endoscopy center,0,0,15.0,0.0,0.0,0.0
+Kalyan Dombivali,KALYAN,44896,38,SUBHASH CHOWK Rambaug syndicate,Ankur hospital,0,0,17.0,0.0,3.0,0.0
+Kalyan Dombivali,KALYAN,44896,38,SUBHASH CHOWK,Maher Hospital,0,0,18.0,0.0,0.0,0.0
+Kalyan Dombivali,KALYAN,1201-2022,40,Shivaji nagar,RAILWAY HOSPITAL,0,0,120.0,75.0,8.0,12.0
+Kalyan Dombivali,KALYAN,44896,38,Rambaug Sndicate,Dhanotari Hospital,0,0,7.0,0.0,0.0,0.0
+Kalyan Dombivali,KALYAN,44896,38,Rambaug Sndicate,Korane Hospital,0,0,15.0,0.0,2.0,0.0
+Kalyan Dombivali,KALYAN,44896,30,Chikalbaug,Shelar Hospital,0,0,22.0,0.0,5.0,8.0
+Kalyan Dombivali,KALYAN,44896,38,Rambaug Syndicate,Ajit Scaning Center,0,0,0.0,0.0,0.0,0.0
+Kalyan Dombivali,KALYAN,44896,38,Rambaug Syndicate,Bhuvan Path,0,0,0.0,,0.0,0.0
+Kalyan Dombivali,KALYAN,44896,30,Chikalbaug,Raoyal Farma,0,0,0.0,0.0,0.0,0.0
+Kalyan Dombivali,DOMBIVLI E,,69,SHIV MARKET,PRIVATE,,,,40.0,11.0,0.0
+Kalyan Dombivali,DOMBIVLI E,,46,KHAMBALPADA,PRIVATE,,,,25.0,6.0,1.0
+Kalyan Dombivali,DOMBIVLI E,,70,SAVARKAR ROAD,PRIVATE,,,,0.0,6.0,0.0
+Kalyan Dombivali,DOMBIVLI E,,71,SARASWAT,PRIVATE,,,,15.0,15.0,0.0
+Kalyan Dombivali,DOMBIVLI,44573,55,ANAND NAGAR,PRIVATE,19.22269,73.08171,22.0,22.0,6.0,1.0
+Kalyan Dombivali,DOMBIVLI,44573,57,JAY HIND COLONY,PRIVATE,19.22305,73.08255,22.0,0.0,4.0,0.0
+Kalyan Dombivali,,,,,PRIVATE,19.22252,73.08422,15.0,0.0,0.0,0.0
+Kalyan Dombivali,DOMBIVLI,44573,52,DEVICHA PADA,PRIVATE,19.22686,73.08097,10.0,0.0,0.0,0.0
+Kalyan Dombivali,DOMBIVLI,44573,64,JUNI DOMBIVLI,PRIVATE,19.22098,73.08057,10.0,0.0,0.0,0.0
+Kalyan Dombivali,Dombivali,44896,114,Manpada,Ashirwad Hospital,19.186,73.117,5.0,,2.0,
+Kalyan Dombivali,Dombivali,44896,114,Manpada,Dhanwantari Hospital,19.187,73.092,15.0,10.0,3.0,
+Kalyan Dombivali,Dombivali,44896,114,Manpada,Shree Gajanan Hospital,19.186,73.117,12.0,,3.0,1.0
+Kalyan Dombivali,KALYAN,44896,107,Pisavali,Jankalyan Multispecalist Hospital,19.217,73.128,50.0,10.0,7.0,3.0
+Kalyan Dombivali,Dombivali,44896,107,Sonarpada,Neptune Superspeciality Hospital,19.141,73.1,35.0,6.0,7.0,2.0
+Kalyan Dombivali,Dombivali,44896,117,Dawadi,MDM Dawadi Hospital,19.201,73.113,15.0,10.0,2.0,1.0
+Kalyan Dombivali,KALYAN,44896,106,Nandivali,Shree Krushna Multispecalist Hospital,19.213,73.137,20.0,,7.0,1.0
+Kalyan Dombivali,KALYAN,44896,106,Nandivali,Krushnalila Multispecalist Hospital,19.207,73.134,20.0,,3.0,
+Kalyan Dombivali,KALYAN,44896,106,Nandivali,Janki Global Multispecalist Hospital,19.214,73.131,40.0,12.0,7.0,2.0
+Kalyan Dombivali,KALYAN,12.01.2022,104,KHADEGOLAVALI,LEELAWATI HOSPITAL,19.211747,73.154698,15.0,0.0,4.0,1.0
+Kalyan Dombivali,KALYAN,12.01.2022,95,NEHRU NAGAR,,,,,,,
+Kalyan Dombivali,KALYAN,12.01.2022,95,SHREE RAM COLONY,,,,,,,
+Kalyan Dombivali,KALYAN,12.01.2022,101,HANUMAN NAGAR,MANAVTA HOSPITAL,19.221,73.142,24.0,0.0,5.0,5.0
+Kalyan Dombivali,KALYAN,12.01.2022,103,KAILAS NAGAR,,,,,,,
+Kalyan Dombivali,KALYAN,12.01.2022,96,JAI BAI,,,,,,,
+Kalyan Dombivali,KALYAN,12.01.2022,102,BHAGWAN NAGAR,,,,,,,
+Kalyan Dombivali,KALYAN,12.01.2022,97,SHANI NAGAR,MAMTA NURSING HOME,19.227827,73.142499,15.0,0.0,0.0,
+Kalyan Dombivali,KALYAN,12.01.2022,97,SHANI NAGAR,BHANUJAAT HOSPITAL,19.2287,73.1425,20.0,0.0,3.0,
+Kalyan Dombivali,KALYAN,12.01.2022,97,SHANI NAGAR,SAI KRUPA HOSPITAL,19.227313,73.140861,16.0,0.0,5.0,
+Kalyan Dombivali,KALYAN,12.01.2022,97,SHANI NAGAR,SANJIVANI HOSPITAL,19.290687,72.863801,9.0,0.0,3.0,
+Kalyan Dombivali,KALYAN,12.01.2022,97,SHANI NAGAR,SPARSH HOSPITAL,19.21951,73.149453,20.0,0.0,5.0,
+Kalyan Dombivali,kalyan east,12.01.2022,94,Anandwadi,,,,,,,
+Kalyan Dombivali,kalyan,12.01.2022,92,Ganeshwadi,,,,,,,
+Kalyan Dombivali,kalyan,12.01.2022,93,Laxmibaug,saiswastik,,,16.0,,4.0,1.0
+Kalyan Dombivali,kalyan,12.01.2022,93,Laxmibaug,Anandi hospital,,,12.0,,,
+Kalyan Dombivali,kalyan,12.01.2022,93,laxmibaug,sai shardha hospital,,,10.0,,,
+Kalyan Dombivali,kalyan,12.01.2022,41,kolsewadi,,,,,,,
+Kalyan Dombivali,kalyan,12.01.2022,90,chikanipada,Chaitnay hospital,,,24.0,,6.0,2.0
+Kalyan Dombivali,kalyan,12.01.2022,90,chikanipada,MAHESH hospital,,,16.0,,,
+Kalyan Dombivali,kalyan,12.01.2022,91,jarimari nagar,balaji hospital,,,40.0,,3.0,2.0
+Kalyan Dombivali,kalyan,12.01.2022,91,jarimari nagar,Ganesh memorial Hospital,,,22.0,,8.0,1.0
+Kalyan Dombivali,kalyan,12.01.2022,91,jarimari nagar,jarimari hospital,,,24.0,,1.0,
+Kalyan Dombivali,kalyan,12.01.2022,91,jarimari nagar,,,,,,,
+Kalyan Dombivali,kalyan,12.01.2022,89,mangalraghonagar,sidhivinayak hospital,,,34.0,,,
+Kalyan Dombivali,kalyan,12.01.2022,89,mangalraghonagar,Nakshtray hospital,,,,,,
+Kalyan Dombivali,kalyan,12.01.2022,89,mangalraghonagar,Anant Laxmi,,,15.0,,,
+Kalyan Dombivali,DOMBIVLI EAST,44583,81,GANDHI NAGAR,ICON HOSPITAL,19.2078° N,73.0943° E,54.0,32.0,2.0,2.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,81,GANDHI NAGAR,ORION HOSPITAL,19.2095° N,73.0936° E,30.0,0.0,3.0,3.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,80,PANDURANG WADI,CHIRAYU HOSPITAL,23.2689° N,77.3081° E,14.0,0.0,4.0,1.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,76,SANGEETA WADI,SHREE HOSPITAL,19.2397° N,73.1424° E,14.0,0.0,0.0,0.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,76,SANGEETA WADI,PADMASHREE HOSPITAL,19.2122° N,73.0918° E,15.0,0.0,3.0,1.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,81,GANDHI NAGAR,HARDIKAR HOSPITAL,18.5304° N,73.8475° E,10.0,0.0,0.0,0.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,76,SANGEETA WADI,SAMARTH HOSPITAL,18.5231° N,73.8682° E,25.0,0.0,5.0,2.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,79,SUNIL NAGAR,PHEONIX HOSPITAL,19.2089° N,73.0889° E,15.0,3.0,0.0,0.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,79,SUNIL NAGAR,MADHUSUDAN HOSPITAL,19.2094° N,73.093948° E,25.0,10.0,6.0,5.0
+Kalyan Dombivali,DOMBIVLI EAST,44583,76,SANGEETA WADI,SUYOG HOSPITAL,19.2132° N,73.0908° E,15.0,0.0,0.0,0.0
+Kalyan Dombivali,Manda East,44574,9,Manda East,SHREE MAHAGANPATI HOSPITAL,19.29,73.2,15.0,,,
+Kalyan Dombivali,Manda East,44574,9,Manda East,SHREE KRASHNA HOSPITAL,19.29,73.2,23.0,,6.0,
+Kalyan Dombivali,Manda West,44574,8,Manda West,SHRRE EKVIRA HOSPITAL,19.29,73.2,26.0,,4.0,
+Kalyan Dombivali,Manda East,44574,9,Manda East,Swami Krupa,19.29,73.2,25.0,25.0,5.0,5.0
+Kalyan Dombivali,Manda East,44574,11,Baneli,NIRVA HOSPITAL,19.29,73.2,22.0,,4.0,
+Kalyan Dombivali,Manda East,44574,9,Manda East,Siddhivinayak Hospital,19.29,73.2,24.0,,7.0,
+Kalyan Dombivali,Manda East,44574,9,Manda East,ASHIRVAD HOSPITAL,19.29,73.2,30.0,15.0,3.0,3.0
+Kalyan Dombivali,Manda East,44574,9,Manda East,Dhawan Hospital,19.29,73.2,10.0,,2.0,1.0
+Kalyan Dombivali,Manda West,44574,8,Manda West,SHIDHESHWAR HOSPITAL,19.29,73.2,10.0,,2.0,0.0
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,85,MIDC,KAMAT HOSPITAL PRIVATOR,,,1.0,1.0,,
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,111,SAGAON,NARMADA HOSPITAL PRIVATOR,,,,,,
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,111,SAGAON,AROGYAM HOSPITAL,,,,,,
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,85,MIDC,SRV MAMTA HOSPITAL,,,100.0,31.0,7.0,3.0
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,85,MIDC,AIMS HOSPITAL,,,45.0,45.0,45.0,27.0
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,85,MIDC,THAKUR HOSPITAL,,,,,,
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,85,MIDC,ORTHOVED HOSPITAL,,,,,,
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,SAGARLI,111,SAI AMRUT HOSPITAL,,,22.0,22.0,3.0,1.0
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,85,MIDC,MANAVTA HOSPITAL,,,15.0,15.0,4.0,
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,SAGARLI,111,SANJEEVANI HOSPITAL,,,,,,
+Kalyan Dombivali,AJDE DOMBIVALI EAST,13.01.2022,85,MIDC,RR HOSPITAL,,,40.0,40.0,10.0,4.0
+Kalyan Dombivali,Kalyan,13-01-2022,6,Vadavali,,,,,,,
+Kalyan Dombivali,Kalyan,13-01-2022,7,Ambivali Gavthan,,,,,,,
+Kalyan Dombivali,Kalyan,13-01-2022,13,Mohana Gavthan,Ganpati Hospital,,,35.0,8.0,8.0,1.0
+Kalyan Dombivali,,13-01-2022,,,Swas Hospital,,,30.0,0.0,7.0,1.0
+Kalyan Dombivali,Kalyan,13-01-2022,14,Mohana Koliwada,,,,,,,
+Kalyan Dombivali,Kalyan,13-01-2022,15,Shahad,,,,,,,
+Kalyan Dombivali,KALYAN WEST,13-01-2022,36,BAILBAZAR,MEERA HOSPITAL,73.126,19.235,60.0,30.0,6.0,3.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,36,BAILBAZAR,SARTHAK HOSPITAL,73.126,19.235,20.0,0.0,3.0,2.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,36,BAILBAZAR,NITYANAND HOSPITAL,73.126,19.235,27.0,7.0,10.0,3.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,36,BAILBAZAR,AM PM HOSPITAL,73.126,19.235,51.0,31.0,26.0,5.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,28,KALA TALAO,NATIONAL HOSPITAL,73.126,19.235,95.0,30.0,5.0,3.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,31,AHILABAI CHOWK,DR.C B VAIDYA MEMORIAL HOSPITAL,19.24554,73.12644,45.0,30.0,6.0,2.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,31,AHILABAI CHOWK,DEO NURSING HOME,73.126,19.235,10.0,0.0,0.0,0.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,36,BAILBAZAR,SUSRUSHA HOSPITAL,73.126,19.235,15.0,0.0,2.0,0.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,31,AHILABAI CHOWK,Spectrum Hospital,73.126,19.235,30.0,8.0,7.0,2.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,36,Bail Bazar,FORTIS HOSPITAL,27.2046N,77.4977E,58.0,0.0,11.0,6.0
+Kalyan Dombivali,KALYAN WEST,13-01-2022,36,BAILBAZAR,SHREEDEVI HOSPITAL,73.12725,19.236031,96.0,52.0,15.0,2.0
+,,,,,,,,,,,
