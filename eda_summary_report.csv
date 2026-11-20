@@ -1,0 +1,12 @@
+,City Name,Area Name,Day-Month-Year,Ward No.,Ward Name,Type of hospital_PrivateorPublic,Longitude,Latitude,Total no. of beds,Number of COVID beds,Number of ICU beds,Number of ventilators or ABD
+count,181,179,176,169,179,168,111,111,143.0,111.0,133.0,111.0
+unique,1,15,26,62,71,159,55,55,,,,
+top,Kalyan Dombivali,KALYAN,44573,68,ramnagar,PRIVATE,0,0,,,,
+freq,181,37,48,17,17,9,21,21,,,,
+mean,,,,,,,,,23.587412587412587,8.108108108108109,4.413533834586466,1.5315315315315314
+std,,,,,,,,,20.334640073532704,13.698939143632021,5.365614172460612,3.068371850820206
+min,,,,,,,,,0.0,0.0,0.0,0.0
+25%,,,,,,,,,15.0,0.0,1.0,0.0
+50%,,,,,,,,,17.0,0.0,3.0,1.0
+75%,,,,,,,,,25.0,11.0,6.0,2.0
+max,,,,,,,,,120.0,75.0,45.0,27.0
