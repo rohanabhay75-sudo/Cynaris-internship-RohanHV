@@ -1,0 +1,317 @@
+﻿Company_ID,Company_Name,Industry,City,State,Founded_Year,Employees,Annual_Revenue_Cr,Profit_Margin_Pct,Funding_Stage,GST_Registered,Registration_Date,Contact_Phone
+CMP0255,Kaveri Realty Pvt. Ltd.,Real Estate,Lucknow,Uttar Pradesh,2021,99,17.44,21.9,Seed ,no,12/07/2021,6054321613
+CMP0036,MALABAR WEAVERS PVT LTD,,pune,maharashtra,1992,71,14.46,17.2,Listed ,No,15/05/1994,+91-7176541636
+CMP0106, Sahyadri Retail Private Limited  ,Retail,Bengaluru,karnataka,1960,197,37.24,10.9,Series A,Yes,1960-06-26,63340 46129
+CMP0176,Bharat Spices Pvt Ltd,Food Processing,indore,Madhya Pradesh,2019,318,56.81,22.5,Seed,Yes,04-Mar-2021,08159014692
+CMP0107, Malabar Industries Pvt Ltd  ,Manufacturing,N/A,karnataka,1969,821,190.72,4.7, Series A,no,1971-02-20,8662717553
+CMP0063,UJWAL HEALTHCARE PVT LTD,Pharmaceuticals,Indor,MadhyaPradesh,N/A,55,15.75,18.7,Series C,0,2000-10-27,+91 75166 93481
+CMP0136,SRI CARGO PVT LTD,Logisitcs, Ahmedabad,gujarat,1975,141,27.83,-2.8,series a,0,1976-04-25,+91-6516418732
+CMP0243,deccan transport pvt ltd, Logistics,Ahmedabad,Gujarat,1992,21,7.24,24.4,BOOTSTRAPPED,Yes,10-Sep-1994,6805495363
+CMP0219,sahyadri healthcare pvt ltd,Pharma,HYDERABAD,Telangana,1970,11,1.22,null, Bootstrapped,0,"September 22, 1972",90144 72049
+CMP0027,Konark  Cargo Pvt. Ltd.,Logistics,Coimbatore,tamil nadu,,164,32.34,13.7,Series A,Y,04-Jul-1972,N/A
+CMP0060,Vaidehi Spices Private Limited,Food Processing,Pune,Maharashtra,1984,78,28.45,N/A, Seed,yes,1986-12-19,+91 61658 36374
+CMP0139,KONARK PHARMA PVT LTD,Pharma,Chennai ,TamilNadu,1967,412,185.38,20.8,Series B ,Yes,1968-02-22,08255889394
+CMP0229,BHARAT TECHNOLOGIES PRIVATE LIMITED,it services,mumbai,Maharashtra,1962,90,22.25,13.9,Series C,Yes,16-Oct-1962,09096162168
+CMP0058,Mahalaxmi Realty Private Limited,Real Estate,indore,Madhya Pradesh,,367,65.67,N/A,Seed ,Yes,1986-01-21,+91-8882936912
+CMP0161,Vaidehi Mart pvt ltd,N/A, Mysuru,Karnataka,1969,null,60.91,26.9,Seed,yes,1970-03-28,+91 69178 27132
+CMP0264,himalaya traders pvt ltd,retail,Hyderabad,Telangana,1990,193,56.34,13.9,series b,Y,1990-06-27,+91-9552871964
+CMP0179,Konark Foods Pvt. Ltd.,Food Processing,Jaipur,Rajasthan,null,359,70.84,14.1,seed,YES,2005-12-07,08291820358
+CMP0228,Lakshmi Traders Pvt Ltd,Retail,INDORE,Madhya Pradesh,2009,604,105.22,,Series A ,Yes,13-Nov-2010,72236 25826
+CMP0099,Indus Textiles Pvt. Ltd.,Textiles,mumbai,Maharashtra,1998,287,75.09,22.6,Seed ,Yes,1998-01-18,68465 14191
+CMP0208,deccan agri products pvt ltd,Agriculture, Lucknow,Uttar Pradesh,2010,129,21.26,,SEED,Yes,2012-09-06,09878487232
+CMP0156,  nandi mart pvt ltd, Retail,Kolkata,West Bengal,2007,64,22.94,11.8,Series B,Y,18-Dec-2007,
+CMP0067,Bharat Technologies Private Limited,IT Services,Mumbai,Maharashtra,2004,null,33.08,480.0,Seed,no,2004-03-05,08170226407
+CMP0066,Mahalaxmi Edutech Pvt Ltd,education,Pune,Maharashtra,1982,94,30.19,9.1,Series B,No,10-Nov-1982,+91 86255 35285
+CMP0083,lakshmi realty pvt. ltd.,Realestate,PUNE,Maharashtra ,2021,103,26.48,15.6,Series A,Yes,"October 25, 2022",81351 17668
+CMP0221,LAKSHMI FABRICS PVT LTD,Textiles,Ahmadabad,Gujarat,1999,781,265.81,-12.0,Listed ,No,2001-07-17,+91-8117499657
+CMP0250,Sri Logistics Private Limited,LOGISTICS, Hyderabad,Telangana,1998,527,₹170.9 Cr,17.0,seed,yes,01/01/1999,NA
+CMP0266, Sri Dairy pvt ltd  ,Food processing,Coimbatore,Tamil Nadu,1974,117,19.51,21.7,Bootstrapped ,Yes,1975-08-27,07612356145
+CMP0065,UJWAL SPICES PVT. LTD., Food Processing,chennai,TAMIL NADU,1987,207,78.57,9.2,Series C,1,1987-11-22,+91 84281 00771
+CMP0297,VAIDEHI ENGINEERING WORKS PVT LTD,Manufacturing,coimbatore,Tamil Nadu,1980,71,35.36,11.2,Bootstrapped,YES,17/05/1982,+91-6036703129
+CMP0215,Aryan Transport Pvt Ltd,Logistics,kolkata,WEST BENGAL,1978,66,16.41,32.4,Series B,Yes,06/05/1980,06180918748
+CMP0012,Vaidehi Realty Pvt Ltd,Real Estate,Coimbatore,TAMIL NADU,1980,143,N/A,16.0,,Yes,1980-01-10,06982965724
+CMP0014,Krishna Transport PVT LTD,,Mumbai,Maharashtra,1969,112,58.07,11.6,Seed,yes,1970-05-21,+91 74170 47187
+CMP0295,Himalaya Academy Pvt Ltd,Education,Mysuru,Karnataka,2022,313,81.15,9.7,series a,1,24/03/2024,
+CMP0185,Ganga Fabrics Pvt. Ltd.,Textiles,AHMEDABAD,Gujarat,1998,223,95.57,10.3,null,Y,"June 01, 1998",+91 78105 36845
+CMP0239, Deccan Industries Pvt Ltd  ,Manufacturing,Kolkata,West Bengal,2003,146,34.26,-13.8,Bootstrapped,0,2003-01-04,
+CMP0030,KONARK RETAIL PVT LTD,Retial,mysuru,Karnataka,2011,19,null,,Bootstrapped,Y,2012-01-02,07263898692
+CMP0126,SHREE WEAVERS PRIVATE LIMITED,Textiles,Delhi,Delhi,2013,288,60.6 Cr,11.9,Bootstrapped ,Yes,"November 05, 2014",86599 35288
+CMP0016,mahalaxmi technologies pvt ltd,it services,Lucknow,Uttar Pradesh,NA,39,14.56,6.4,Seed,no,26/01/1984,09544446347
+CMP0213,Surya Textiles PVT LTD,Textiles,KOCHI,Kerala,1978,28,5.45,7.3,Series A,No,02-Nov-1979,7003791821
+CMP0138,Indus Weavers pvt ltd,Textiles, Bengaluru,Karnataka,1972,35,8.34,15.4,SERIES A,1,16-Nov-1972,+91 61530 39452
+CMP0071,Indus  Traders Pvt. Ltd.,Retail ,PUNE,Maharashtra,2011,271,132.39,N/A,Bootstrapped,yes,2012-03-05,06299672763
+CMP0184, Konark Developers pvt ltd  ,Real Estate,Lucknow,Uttar Pradesh,2021,260,43.37,2.8,Bootstrapped,N,NA,+91 88694 92777
+CMP0119, Shree Agro pvt ltd  ,Agriculture, Kolkata,West Bengal,1964,60,11.23,14.5,BOOTSTRAPPED,N,27-Mar-1965,7294763237
+CMP0073,Deccan Edutech Pvt Ltd,Education,Coimbatore,Tamil Nadu,1981,12,3.63,30.5,seed,No,"June 17, 1983",7076769429
+CMP0035, Deccan Institute Pvt Ltd  ,Education,Coimbatore ,Tamil Nadu,1997,225,97.3,-0.8,Seed,No,1997-03-11,+91 62136 22446
+CMP0277,Lakshmi Engineering Works Pvt Ltd,Manufacturing,Bombay,Maharashtra,1999,82,42.48,17.3,Seed ,Yes,26/01/2001,+91-9934573844
+CMP0015,Kaveri Traders Pvt Ltd,RETAIL,Mumbai,MAHARASHTRA,2017,561,N/A,10.3,bootstrapped,0,2018-07-01,8516691564
+CMP0267,mahalaxmi transport pvt ltd,Logistics,KOCHI,Kerala,2002,275,46.13,-5.3,Series A,no,2003-04-08,+91 74300 69366
+CMP0189,Himalaya Cargo PVT LTD,Logistics,Jaipur,Rajasthan,null,227,-23.25,14.9,Seed,1,1979-08-06,08303580040
+CMP0009,Krishna Transport Pvt Ltd,Logistics,MUMBAI,Maharashtra,2016,354,74.11,9.6,Bootstrapped,Yes,2016-08-08,9706589481
+CMP0293,KRISHNA AGRI PRODUCTS PVT. LTD.,Agriculture,Mumbai,Maharashtra ,2001,187,49.74,15.7,Bootstrapped ,Yes,2003-12-26,+91-8208187846
+CMP0221,LAKSHMI FABRICS PVT LTD,Textiles,Ahmadabad,Gujarat,1999,781,265.81,-12.0,Listed ,No,2001-07-17,+91-8117499657
+CMP0081, Sahyadri Agri Products PVT LTD  ,Agricultur,Coimbatore ,tamil nadu,2007,211,34.56,13.1,Seed,No,2008-06-23,+91-8838253227
+CMP0202,TUNGABHADRA ENGINEERING WORKS PVT. LTD.,Manufacturing, Bengaluru,Karnataka,2015,56,74094.1,21.1,series b,No,2016-11-03,+91 60459 74426
+CMP0084,Konark Soft Solutions PVT LTD,IT services,Mumbai,Maharashtra,1988,143,25.09,14.2,NA,Yes,1989-08-05,90357 08692
+CMP0238,Ujwal Engineering Works Pvt. Ltd.,Manufacturing,Pune,Maharashtra,,198,103.3,18.2,Seed,no,2004-08-18,+91 84694 74190
+CMP0300,shree agri products pvt. ltd.,AGRICULTURE,Surat,Gujarat,1963,28,7.84,0.0,SERIES A,Yes,17/06/1964,89988 38572
+CMP0092,MAHALAXMI DEVELOPERS PVT LTD,real estate,Pune ,Maharashtra,1972,11,2.38,N/A,Series B ,0,1974-08-18,06176694725
+CMP0042,Nandi Dairy Pvt Ltd,Food processing,Kochi,kerala,1998,267,56.63,19.2,Bootstrapped ,1,2000-02-07,8069907980
+CMP0127, Sri Healthcare Pvt Ltd  ,Pharma, Mumbai,maharashtra,1994,101,30.9,17.9,seed,No,16/11/1995,N/A
+CMP0101,Mahalaxmi Pharma Pvt. Ltd.,Pharma, Jaipur,Rajasthan,1986,45,20.29,11.2,Bootstrapped ,YES,1986-12-15,null
+CMP0105,SRI AGRO PVT LTD,agriculture,surat,GUJARAT,1986,21,3.84,null,Seed,Yes,1988-10-21,+91 80561 27279
+CMP0100,Krishna Academy Pvt Ltd,EDUCATION,KOLKATA,WEST BENGAL,2035,645,107.8,10.5,,1,19-Aug-1966,null
+CMP0020,Surya  Spices Pvt Ltd,Food Processing,Cochin,kerala,2022,34,12.18,10.3, Series A,Yes,2024-03-14,8721014156
+CMP0248,Konark Engineering Works Pvt. Ltd.,Manufactring,jaipur,Rajasthan,1969,41,20.79,24.0,Bootstrapped ,Yes,1970-03-15,+91-6872604104
+CMP0070,BHARAT INFOSYSTEMS PVT LTD,it services,Kolkata,WEST BENGAL,2018,69,30.61,2.1,Bootstrapped,Yes,28/10/2018,9095158591
+CMP0068, Shree Institute PVT LTD  ,EDUCATION,Hyderabad,Telangana,2015,22,3.12,10.4,Seed,Yes,20-Jul-2015,+91-9129589658
+CMP0094,Krishna Pharma Pvt. Ltd.,Pharma,Mysuru,karnataka,1968,765,169.04,16.2,Series B,YES,"November 14, 1969",+91 68674 82970
+CMP0160, Aryan Pharma Pvt Ltd  ,pharma,coimbatore,Tamil Nadu ,1998,NA,₹31.18 Cr,11.8,SERIES A,No,11/01/2000,+91-6402503024
+CMP0002,Himalaya Spices pvt ltd,Food Processing ,COIMBATORE,Tamil Nadu,1971,275,103.32,11.9,BOOTSTRAPPED,0,03/04/1973,85597 97114
+CMP0200,BHARAT WEAVERS PVT LTD,Textiles,Hydrabad,telangana,1982,64,10.08,10.9,Seed,Yes,23/12/1982,
+CMP0290,KAVERI FARMS PVT LTD,Agriculture,MUMBAI,Maharashtra,1997,371,71.74,17.2,LISTED,N,1997-04-08,+91-6102392979
+CMP0199,sri foods pvt ltd,Food Processing, Chennai,Tamil Nadu,1980,200,70.21,14.4,Seed,1,08-Feb-1981,+91-8609711162
+CMP0135,MALABAR DEVELOPERS PRIVATE LIMITED,REAL ESTATE,DELHI,Delhi,1992,200,57.28,20.1,seed,Yes,12/07/1992,7219124899
+CMP0197,indus infosystems pvt ltd,IT Services,CHENNAI,Tamil Nadu,1962,100,23.72,3.6,Series B,No,20/10/1964,7374278137
+CMP0059,annapurna realty pvt ltd,Real Estate,Mumbai,MAHARASHTRA,1960,180,41.19,13.0,Seed,No,1962-10-11,+91-6709333029
+CMP0037,Sri Cargo PVT LTD,Logistics,AHMEDABAD,gujarat,1960,202,₹36.32 Cr,17.6,Series A,No,1961-08-04,+91 93268 19504
+CMP0163,SHREE INDUSTRIES PVT LTD,Manufacturing,Chennai,tamil nadu,1986,123,45.33,3.6,Bootstrapped,YES,04-Aug-1988,NA
+CMP0228,Lakshmi Traders Pvt Ltd,Retail,INDORE,Madhya Pradesh,2009,604,105.22,,Series A ,Yes,13-Nov-2010,72236 25826
+CMP0056,Himalaya Spices Pvt Ltd,Food Processing,kolkata,WestBengal,1989,162,44.56,8.8, Seed,no,1990-12-12,+91 85935 36000
+CMP0006,Sri Spices Pvt Ltd,Food Processing,Delhi,delhi,1850,31,8.75,16.1,Series B,Yes,"June 12, 2013",+91-7726516761
+CMP0124,kaveri traders pvt ltd,Retail,Jaipur,Rajasthan,N/A,23,11.48,1.5,Series A,No,1970-12-09,79179 34680
+CMP0191,Surya Constructions pvt ltd,Real Estate,Lucknow,Uttar Pradesh,2009,24,NA,20.2,SERIES A,Yes,06-Oct-2011,07563734056
+CMP0113,Himalaya Industries Pvt Ltd,Manufacturing,Lucknow,Uttar Pradesh,1997,120,56.84,12.5,Series A,No,17-Jun-1999,+91-9350775275
+CMP0212, Nandi Spices Pvt Ltd  ,food processing,delhi,Delhi,2016,184,38.21,14.0,Bootstrapped,no,2017-01-10,+91-9820670371
+CMP0187,Shree Realty Pvt Ltd,Real Estate,KOCHI,KERALA,2003,N/A,21.04,N/A,Bootstrapped,No,18/12/2003,+91 71331 79156
+CMP0069,Surya Logistics Pvt Ltd,LOGISTICS,Poona,Maharashtra,1972,15,4.31,NA,Bootstrapped ,No,09-Nov-1974,+91 67682 39712
+CMP0049,SURYA AGRI PRODUCTS PVT. LTD.,Agriculture,Chennai,TamilNadu,1986,166,75.26,,Series A,yes,1986-03-01,8643316462
+CMP0145,Ganga Engineering Works PVT LTD,Manufacturing,Surat,Gujarat,1962,58,9.82,8.5,Seed,Yes,16-Sep-1963,62444 38993
+CMP0188,aryan steel private limited,Manufacturing,SURAT,Gujarat,2003,94,22.84,17.0,Seed ,0,2005-02-15,69825 53933
+CMP0192,SHREE ACADEMY PVT LTD,Educaton,Kolkatta,west bengal,1965,209,38.02,11.1,Bootstrapped,Yes,20/12/1967,7837499985
+CMP0072,Indus Farms pvt ltd,agriculture,Delhi,Delhi,1983,92,38.86,12.5,Series B,no,1985-08-11,+91-8599892081
+CMP0227,Mahalaxmi Steel Private Limited,manufacturing, Coimbatore,Tamil Nadu,1981,139,Rs. 81.78,4.1,Series C ,No,1982-01-08,09428999229
+CMP0178,Ujwal Engineering Works Pvt. Ltd.,Manufacturing,Chennai,Tamil Nadu,2003,181,40.18,11.2,Seed ,N,2005-05-01,69002 94819
+CMP0210,kaveri labs pvt ltd,Pharmaceuticals,Mumbai,MAHARASHTRA,2018,25,6.64,3.5,Seed,Yes,2018-04-27,9154584032
+CMP0244,Krishna Fabrics Private Limited,Textiles,Jaipur,Rajasthan,1996,90,25.12,18.8,Bootstrapped,Yes,1997-06-08,null
+CMP0171,NANDI STEEL PVT LTD,Manufacturing,Surat,Gujarat,1990,105,24.4,10.4,Listed,Y,1991-07-07,78551 61804
+CMP0109,Vijaya Mart Pvt Ltd,Retail,Indore,Madhya Pradesh ,1966,410,73.56,11.9,bootstrapped,yes,1968-07-27,+91-8577358018
+CMP0057,Vijaya Dairy pvt ltd,Food processing,Pune,Maharashtra,1962,90,17.84,3.9,Series A,Yes,12-Nov-1964,+91 62555 14821
+CMP0011,annapurna realty pvt ltd,Real estate,Mysuru,karnataka,1977,133,53.02,0.7,SEED,Yes,1978-01-09,NA
+CMP0256,Kaveri Retail Pvt Ltd,Retail,Kochi,Kerala,1997,N/A,85499.03,NA, Series A,1,10-Mar-1999,null
+CMP0140,krishna soft solutions private limited,IT Services, Kolkata,West Bengal,2005,182,35.71,2.8,Series C,no,17-Jun-2006,+91 73645 04805
+CMP0103, Surya Textiles Pvt Ltd  ,TEXTILES, Mysuru,karnataka,2011,139,NA,,LISTED,No,2011-01-15,07985186010
+CMP0263,konark foods pvt ltd,food processing,HYDERABAD,Telangana,1997,662,143.26,13.7,Series A,N,"February 05, 1999",+91 88682 72764
+CMP0093,vaidehi agro pvt ltd,Agriculture,Kolkata,West Bengal,2011,63,12.56,1.0,Seed,Yes,07-Feb-2011,07268002137
+CMP0278,Kaveri Transport Private Limited,Logistics,,TamilNadu,2010,,37.18,13.9, Seed,Yes,2012-04-25,+91 95154 36063
+CMP0116,LAKSHMI TEXTILES PVT LTD,Textiles,Pune,MAHARASHTRA,1998,44,18.36,16.8,Series C,N,25-Jan-2000,+91-9962039317
+CMP0113,Himalaya Industries Pvt Ltd,Manufacturing,Lucknow,Uttar Pradesh,1997,120,56.84,12.5,Series A,No,17-Jun-1999,+91-9350775275
+CMP0207,Shree Fabrics Pvt Ltd,Textiles,New Delhi,Delhi,2014,null,23.98,26.6,Bootstrapped,No,22-Feb-2014,+91-6393058882
+CMP0128,Kaveri Fabrics Pvt Ltd,Textile,Mysuru,Karnataka,,38,6.9,7.5,Series A,Yes,1987-11-28,+91-9566473702
+CMP0207,Shree Fabrics Pvt Ltd,Textiles,New Delhi,Delhi,2014,null,23.98,26.6,Bootstrapped,No,22-Feb-2014,+91-6393058882
+CMP0120,Sri Constructions Pvt Ltd,Realestate,Delhi,Delhi,1999,1149,194.19,,Seed,YES,06-Jun-2000,85956 64130
+CMP0137,Ujwal  Agri Products Pvt Ltd,Agriculture,INDORE,Madhya Pradesh,1981,198,44.75,20.9,Series B,No,1981-02-17,8534530666
+CMP0147,Indus Labs Pvt Ltd, Pharma,PUNE,Maharashtra,1998,117,19.5,7.1,Seed,no,23/07/1998,+91-9858709563
+CMP0260,Surya Soft Solutions Private Limited,it services,Pune,Maharashtra ,,122,21.04,10.6,Bootstrapped,Yes,1969-01-13,84966 01207
+CMP0033,ARYAN TEXTILES PVT LTD,textiles,LUCKNOW,Uttar Pradesh,1982,NA,null,8.8,null,Y,1983-05-02,6942608340
+CMP0298,Ganga Foods pvt ltd,FOOD PROCESSING,bengaluru,KARNATAKA,1964,180,31.86,33.4,Series B ,Yes,"December 21, 1965",+91-8994537740
+CMP0177,namma soft solutions pvt ltd,IT Services,Ahmedabad,Gujarat,2018,280,126.98,18.3,Bootstrapped,Yes,09/11/2020,92506 42853
+CMP0055,TUNGABHADRA CONSTRUCTIONS PRIVATE LIMITED,REAL ESTATE,Jaipur,Rajasthan,1978,18,5.31,3.3, Series B,Yes,1978-05-02,08817426106
+CMP0104,Vaidehi Fabrics pvt ltd,TEXTILES,Jaipur ,Rajasthan,1994,105,57.8,24.2, Bootstrapped,Yes,15/05/1996,07115444427
+CMP0164,LAKSHMI TRANSPORT PVT LTD,Logistics,Poona,Maharashtra,1987,79,33.61,-1.9,Seed,YES,"January 16, 1987",+91 99922 48060
+CMP0166,bharat infosystems pvt ltd,IT services,LUCKNOW,Uttar Pradesh,1979,54,13.18 Cr,8.6,NA,Yes,1980-09-14,94573 42722
+CMP0245, Kaveri Foods Pvt Ltd  ,food processing,Mysore,Karnataka ,2005,54,22.45,18.6,seed,Yes,28/02/2005,8663153734
+CMP0054,surya realty private limited,Real Estate,bengaluru,Karnataka,1998,31,12.84,19.3,Seed ,Yes,03/05/2000,+91 87849 77403
+CMP0041, Krishna Engineering Works Pvt Ltd  , Manufacturing,Delhi,Delhi,1976,547,96.7,10.4, Seed,Y,1978-01-27,9868906410
+CMP0047,Himalaya Retail Pvt Ltd,Retial,PUNE,maharashtra,1972,2432,415.98,11.9,Bootstrapped,Yes,03/07/1972,null
+CMP0131,mahalaxmi labs pvt ltd,Pharma,Hyderabad,Telangana,1996,16,2.07,null, Listed,YES,1998-11-25,67701 10379
+CMP0032,Aryan Mart pvt ltd,retail,Kolkata,West Bengal,2006,1245,357.62,13.7,,no,10/10/2006,
+CMP0029,Namma  Academy Pvt. Ltd.,Education,Chenai,Tamil Nadu,2000,11,3.81,14.6,Bootstrapped,Yes,2002-11-11,+91-7694923597
+CMP0174,Aryan Soft Solutions PVT LTD, IT Services,Mumbai ,Maharashtra,2006,489,169.55,4.1,Listed,1,"April 05, 2008",+91-7049079690
+CMP0031,Navya Labs Pvt Ltd,pharma,COIMBATORE,tamil nadu,1966,356,72.72,6.5,SERIES A,YES,"April 21, 1967",68024 33253
+CMP0168,Himalaya Agri Products Pvt Ltd,Agriculture,Ahmedabad,Gujarat,2009,135,78.16,10.0,Series A ,No,2009-06-16,+91 64539 22641
+CMP0262,HIMALAYA INFOSYSTEMS PRIVATE LIMITED,it services,Chennai,Tamil Nadu,1981,N/A,34.11,23.4,Listed,Yes,1981-01-28,9171255324
+CMP0201,Sri Academy Pvt Ltd,Educaton,Surat,Gujarat,2017,107,,22.9,Listed ,Yes,"September 20, 2017",07197056796
+CMP0226,GANGA HEALTHCARE PVT LTD,pharma,CHENNAI,Tamil Nadu,2010,27,11.62,26.9, Bootstrapped,YES,2010-09-10,+91 63407 57029
+CMP0274,Indus Edutech Pvt. Ltd.,Educaton,Kolkata,WEST BENGAL,1971,NA,127.99,1.6, Seed,YES,1973-07-01,+91 75506 18394
+CMP0222,vijaya edutech pvt ltd,EDUCATION,Coimbatore,Tamil Nadu ,2018,N/A,17.99,5.5,Listed,YES,2018-03-23,
+CMP0247,ANNAPURNA DEVELOPERS PVT LTD,Real Estate,Indor,Madhya Pradesh,2015,310,60.38,, Seed,Yes,07/06/2017,7990152630
+CMP0195,Aryan Engineering Works Pvt Ltd,Manufacturing,kolkata,West Bengal,1961,83,13.25,29.0,Series A,Yes,"November 04, 1961",64332 96736
+CMP0088,indus spices pvt ltd,FOOD PROCESSING,indore,Madhya Pradesh,1972,77,N/A,21.3,Series A,No,1972-08-09,
+CMP0121,Mahalaxmi Academy Pvt Ltd,education,Surat ,Gujarat,1984,0,163.35,11.8,series b,YES,05-May-1985,+91 87735 53111
+CMP0224,annapurna soft solutions private limited,IT Services,COIMBATORE,Tamil Nadu ,1978,79,20.18,1.7,Series A,YES,24/04/1979,+91 98525 20035
+CMP0158,Himalaya  Healthcare Pvt Ltd,PHARMA,Coimbatore,Tamil Nadu,1967,78,₹25.21 Cr,32.6, Bootstrapped,No,1969-10-06,9007681632
+CMP0080,Himalaya Traders Pvt Ltd,RETAIL,JAIPUR,Rajasthan ,1989,35,18.32,11.8,Seed ,N,1991-05-18,89633 11900
+CMP0146,Deccan  Farms Pvt Ltd, Agriculture,null,Kerala,1962,193,44.41,19.3,Series A,No,1964-12-17,+91-6255110910
+CMP0162,Annapurna Technologies Pvt Ltd,I.T. Services,Bengaluru,Karnataka,1980,777,130.29,-0.9,Series C,no,1980-03-11,6451478271
+CMP0110,Annapurna Retail Private Limited,Retail, Kochi,kerala,2015,84,35.02,13.0,Bootstrapped,No,04/04/2016,+91 68070 83792
+CMP0275, Namma Cargo Private Limited  ,Logistics,Chennai,tamil nadu,1983,56,21.75,19.6,Seed,Yes,04/09/1983,08123211400
+CMP0007,Tungabhadra Engineering Works Pvt Ltd,MANUFACTURING, Bengaluru,Karnataka,2001,44,18.75,33.2,Bootstrapped,N,24-Sep-2001,
+CMP0004, Himalaya Healthcare Pvt Ltd  ,pharma,Bengaluru ,Karnataka,1992,1732,374.86,,Bootstrapped,1,22/11/1994,+91-7815901396
+CMP0130,Indus Cargo Pvt Ltd,LOGISTICS,HYDERABAD,Telangana,1976,NA,53.15,2.1, Seed,0,1978-06-06,NA
+CMP0082,DECCAN INFOSYSTEMS PRIVATE LIMITED,IT Services,Delhi,Delhi ,1982,34,14.98,23.2, Bootstrapped,Yes,1984-09-17,08640830940
+CMP0216,HIMALAYA ACADEMY PVT LTD, Education,Jaipur,Rajasthan,1962,215,54.17,13.5,Bootstrapped,Yes,25-Aug-1963,6231002340
+CMP0270,Ganga Pharma Pvt Ltd,Pharma,surat,gujarat,1996,212,99.61,3.5, Seed,no,"May 23, 1998",07879459611
+CMP0028,Ganga Edutech Pvt Ltd,Education,Surat,Gujarat,1992,13,4.08,3.3,Bootstrapped,No,19/04/1993,98891 48654
+CMP0272,Deccan Transport Private Limited,logistics,Kochi,kerala,1991,240,41.96,,Seed ,1,1992-08-10,+91 64710 09785
+CMP0252,Indus Weavers Pvt Ltd,Textilez,DELHI,Delhi,1972,28,5.32,11.9,SEED,Yes,18/09/1974,+91 86770 61653
+CMP0173,Himalaya Farms Pvt Ltd,Agriculture,Indore,MADHYA PRADESH,2015,270,70.93,,seed,0,2015-07-23,
+CMP0236,UJWAL FABRICS PVT LTD,Textiles,Bengaluru,Karnataka,2020,239,null,17.7,Series A,Yes,18-Apr-2020,+91-9121546608
+CMP0271,Sahyadri  Edutech Pvt Ltd,EDUCATION,null,west bengal,1993,55,10.79,16.7,Series A,N,23-Jun-1994,09239692305
+CMP0010,shree mart pvt ltd,Retail,Indor,Madhya Pradesh,2012,385,77.54,8.2,bootstrapped,no,27-Nov-2013,07141705864
+CMP0170,Namma Constructions Pvt Ltd,Real Estate,Jaipur,Rajasthan,1981,381,103.57,-0.0,,Yes,09/04/1981,07050145172
+CMP0299,Annapurna Academy Pvt Ltd,Education,Kolkatta,West Bengal,2013,1008,186.39,5.0, Series B,Yes,2015-10-28,7307095100
+CMP0281,annapurna retail pvt ltd,Retail,Hyderabad,Telangana,2002,52,30.78,12.5,NA,Y,"August 09, 2004",+91 69155 36645
+CMP0023,Navya Institute Pvt Ltd,Education,Indore,MADHYA PRADESH,1983,246,45.65,9.2,Series A,No,09/12/1984,6073750431
+CMP0286,Nandi Transport PVT LTD,LOGISTICS,Mumbay,Maharashtra,1979,138,NA,13.3,Bootstrapped,Yes,21-Jul-1980,8559021177
+CMP0205,Himalaya Mart Pvt Ltd,Retail,Ahmedabad,Gujarat,1977,75,19.04,10.4,Series B,yes,1978-01-09,8419877268
+CMP0265,konark realty pvt ltd,Real Estate,Kolkata,West Bengal,1986,76,16.1,6.3,Bootstrapped,no,18-Dec-1987,+91 98653 66586
+CMP0156,Nandi Mart Pvt Ltd, Retail,Kolkata,West Bengal,2007,64,22.94,11.8,Series B,Y,18-Dec-2007,
+CMP0167,Vaidehi Agri Products Pvt Ltd,Agriculture,NA,gujarat,1994,56,21.76,23.8,Series C,YES,26/11/1994,99561 09098
+CMP0241,Sri Healthcare Pvt. Ltd.,Pharma,bangalore,Karnataka,2008,23,8.23,0.9,SERIES C,YES,2010-03-26,+91 99908 48193
+CMP0085,Indus Steel Pvt. Ltd.,Manufactring,Delhi ,Delhi,2002,44,null,18.7,Seed ,N,"September 13, 2003",9805081695
+CMP0186,Ujwal Fabrics Pvt Ltd,Textiles,Jaipur,Rajasthan,1984,34,6.36,25.0, Bootstrapped,Y,1986-05-27,+91 67732 84857
+CMP0034, Aryan Fabrics Pvt Ltd  ,textiles,Ahmedabad,Gujarat,1978,415,-20.9,NA,Listed,Yes,1978-12-08,08688263728
+CMP0133,Ganga Realty Private Limited,Real Estate,DELHI,Delhi ,2022,66,15.15,19.6, Seed,Yes,"June 06, 2024",+91-8957382539
+CMP0119,  shree agro pvt ltd,Agriculture, Kolkata,West Bengal,1964,60,11.23,14.5,BOOTSTRAPPED,N,27-Mar-1965,7294763237
+CMP0294,Ujwal Technologies Pvt Ltd,I.T. Services,KOCHI,Kerala,2007,319,57.17,20.4, Seed,Yes,02/02/2009,
+CMP0259,KRISHNA FABRICS PVT LTD,Textiles,Bengaluru,Karnataka ,1995,38,12.35,4.8,BOOTSTRAPPED,1,12/07/1996,+91-9538133969
+CMP0077,Navya Industries Pvt. Ltd.,Manufacturing,pune,Maharashtra,2015,286,91.42,9.8,Seed,no,21/04/2016,+91 70404 63353
+CMP0001,MAHALAXMI AGRO PRIVATE LIMITED,Agriculture,CHENNAI,tamil nadu,1987,69,36.49,, Bootstrapped,N,08/02/1988,7199351819
+CMP0149,Namma Realty Pvt Ltd, Real Estate,Indore,MADHYA PRADESH,1970,60,Rs. 28.31,9.3,LISTED,0,18/10/1971,07551712424
+CMP0076,Sahyadri Agri Products Pvt. Ltd.,Agriculture ,Kolkata ,WestBengal,1981,188,43.61,23.8, Bootstrapped,0,"December 20, 1981",+91-7610921088
+CMP0139,KONARK PHARMA PVT LTD,Pharma,Chennai ,TamilNadu,1967,412,185.38,20.8,Series B ,Yes,1968-02-22,08255889394
+CMP0098,Tungabhadra  Edutech Pvt Ltd,Education,coimbatore,Tamil Nadu,2010,213,39.42,1.3, Series C,No,08-Mar-2010,8933415915
+CMP0254,Ujwal Dairy Pvt Ltd,FOOD PROCESSING, Kolkata,West Bengal,1977,46,8.07,8.3,Bootstrapped,Yes,"June 22, 1979",6099768175
+CMP0234,Sri Textiles PVT LTD,Textiles,mysuru,Karnataka,2000,44,16.86,8.6,Bootstrapped ,No,17/10/2001,+91-8514518089
+CMP0273,Lakshmi Academy Pvt Ltd,Education,Indore,MadhyaPradesh,2018,273,82.37,,Series A ,Y,2019-06-15,+91 98544 41521
+CMP0233,Shree Logistics PVT LTD, Logistics,Jaipur,RAJASTHAN,1977,80,17.7,19.8,series a,No,06-Jun-1978,
+CMP0039,Deccan Foods Pvt Ltd, Food Processing,bengaluru,karnataka,1969,83,18.2,26.7,Series A,YES,02-Jul-1970,+91-7368299184
+CMP0284, Vaidehi Fabrics pvt ltd  , Textiles,chennai,TAMIL NADU,1984,412,122.74,-3.2,Listed,YES,15/02/1986,67649 21888
+CMP0112,Ganga Technologies Pvt. Ltd.,IT Services,kochi,Kerala,2005,67,15.47,10.1,Seed,Yes,09/03/2006,7246106104
+CMP0182,Sahyadri Developers Pvt. Ltd.,Real Estate,Kolkata,West Bengal,2015,59,29.94,,Bootstrapped ,N,03/11/2016,+91-6303032682
+CMP0044,Mahalaxmi Soft Solutions Pvt Ltd,IT Services,BENGALURU,Karnataka ,1970,60,11.63 Cr,10.9,Listed ,1,02/10/1971,69959 02949
+CMP0122,SHREE SOFT SOLUTIONS PVT. LTD.,IT Services,Hyderabad ,Telangana ,1985,203,55.48,23.7,Bootstrapped,0,13-Aug-1986,07358519079
+CMP0169,Lakshmi  Steel Pvt Ltd,Manufacturing,Mumbai ,Maharashtra,2018,290,₹51.84 Cr,13.1,series a,Yes,2020-06-09,85182 64197
+CMP0155,himalaya edutech pvt ltd,Education,indore,MadhyaPradesh,2011,326,132.89,23.6,Bootstrapped,Yes,03/01/2013,76663 58469
+CMP0048,Lakshmi Soft Solutions Pvt Ltd,IT Services,Lucknow,Uttar Pradesh ,2008,217,51.05,14.2, Bootstrapped,No,2010-02-16,+91-8271601755
+CMP0291,Shree Farms Pvt Ltd,agriculture,Delhi,DELHI,1991,402,101.06,28.8, Series A,1,16/05/1993,07203626405
+CMP0280,Nandi Cargo Private Limited,Logistics,Delhi,Delhi ,2018,2267,657.98,12.2, Series B,Yes,2019-05-17,+91-8254323691
+CMP0123,ganga steel pvt ltd,manufacturing,Kolkata,West Bengal,1963,76,36.68,15.0,Series A,no,24/06/1963,null
+CMP0038,Himalaya Infosystems Pvt Ltd,IT Services,bengaluru,Karnataka,1979,139,67.67,7.6,Bootstrapped,no,17-Jul-1981,94827 53464
+CMP0021,VIJAYA MART PVT. LTD.,Retail,Kolkata,West Bengal,2007,207,51.31,5.3,Bootstrapped,no,2008-01-21,84409 10317
+CMP0258,Tungabhadra  Soft Solutions Private Limited,IT Services,,Maharashtra,1988,203,37.43,22.2,Series A,Yes,22/08/1988,91741 35346
+CMP0046,Tungabhadra Fabrics Private Limited, Textiles,Hyderabad,TELANGANA,1997,485,131.85,-3.3,Bootstrapped,Yes,1997-04-07,65489 01039
+CMP0052,Lakshmi Steel Pvt Ltd,Manufacturing,mumbai,Maharashtra,1998,84,50.61 Cr,11.8,Bootstrapped,1,15/10/2000,
+CMP0204,Deccan Academy Pvt Ltd, Education,Chennai,tamil nadu,1997,53,,4.6,Listed,1,01/06/1999,+91 87152 82785
+CMP0180,tungabhadra constructions private limited,Real Estate,Mysuru ,karnataka,2013,120,26.06,2.1,Series B,Yes,20/01/2013,+91 72462 85836
+CMP0078,Indus Healthcare PVT LTD,Pharma,Pune,maharashtra,2021,96,52498.64,3.6,NA,Yes,2021-05-10,8012024285
+CMP0231,Ganga Farms Pvt Ltd,Agriculture,Hydrabad,TELANGANA,N/A,195,56.24,8.0,Seed,0,1966-05-26,86828 95375
+CMP0141,Krishna Transport pvt ltd,Logistics,Kochi,Kerala,1991,37,93898.52,15.7,Series B,0,1991-06-07,N/A
+CMP0183,Lakshmi Academy PVT LTD,Education,Calcutta,West Bengal,NA,438,150.96,NA, Series C,1,2011-06-14,6711965347
+CMP0064,Ujwal Cargo Pvt. Ltd.,Logistics,AHMEDABAD,Gujarat,1963,541,151.75,13.7,Bootstrapped,Yes,1965-12-07,9134227733
+CMP0190,Nandi Weavers Private Limited,Textiles,bangalore,Karnataka,2000,16,7.19 Cr,N/A,Seed,Yes,2002-10-23,6861711406
+CMP0225,Ujwal Dairy Pvt Ltd,Food Processing,AHMEDABAD,Gujarat,1973,30,16.6,9.5,Series A ,no,09-May-1975,
+CMP0022,HIMALAYA TRANSPORT PVT LTD,Logistics,Surath,Gujarat,1979,192,,14.3,Series A,YES,20-Mar-1981,+91-8913167723
+CMP0205,  himalaya mart pvt ltd,Retail,Ahmedabad,Gujarat,1977,75,19.04,10.4,Series B,yes,1978-01-09,8419877268
+CMP0209,Bharat Transport Pvt Ltd,Logistics,Calcutta,West Bengal,1986,54,14.57,12.3,seed,No,26/07/1987,96543 79859
+CMP0249,Deccan Steel Pvt Ltd,Manufactring,Pune ,Maharashtra,2020,121,59.07,7.6,bootstrapped,Yes,17/07/2020,+91 66231 61481
+CMP0045,Krishna Mart Private Limited,Retail,Kolkata ,West Bengal,1962,72,16.38,18.7,Bootstrapped ,Yes,1963-03-26,09734906781
+CMP0040,Navya Mart Pvt Ltd,Retail,N/A,Rajasthan,1995,58,14.83,20.7,Seed,0,15/08/1995,NA
+CMP0214,Deccan Traders Pvt Ltd, Retail,Mumbai,MAHARASHTRA,1986,31,13.45,-7.0, Series C,Yes,14-Mar-1987,92359 83764
+CMP0050, Konark Healthcare Pvt Ltd  ,Pharma,Chennai ,TamilNadu,1987,262,110.38,7.4,Seed,Yes,07/07/1987,+91 79430 18608
+CMP0196,  himalaya fabrics private limited,Textiles,Ahmedabad,Gujarat,2015,107,,19.2,Seed,Y,2016-12-02,90815 42555
+CMP0026, Bharat Mart Pvt Ltd  ,Retial, Pune,Maharashtra,2005,108,55.03,6.5,BOOTSTRAPPED,No,2007-12-27,06516978464
+CMP0276,Surya Institute Pvt Ltd,EDUCATION,Indore,Madhya Pradesh,2003,248,48.06,15.6,Seed,Yes,18/02/2005,09513350849
+CMP0288,Lakshmi Retail pvt ltd,retail,kolkata,West Bengal ,1967,84,19.54,30.0,Bootstrapped,yes,,06316009356
+CMP0223,KAVERI FABRICS PVT LTD,Textiles,Delhi ,Delhi,1974,250000,4.63,6.0, Series A,Yes,07/08/1975,7388990787
+CMP0285,Surya Academy Pvt Ltd,Education,Calcutta,West Bengal,1964,585,185.88,6.1,Bootstrapped,N,1965-01-09,+91-6811483793
+CMP0117,Sahyadri Constructions pvt ltd,Real Estate,Kolkata,West Bengal,2017,78,16.86,8.0,Seed,No,2017-04-10,6405832237
+CMP0024,Deccan Institute Pvt Ltd,Education,Hyderabad,Telangana,2020,152,29.43,22.0, Bootstrapped,Y,21/02/2020,
+CMP0261,ANNAPURNA DAIRY PVT LTD,Food Processing,Pune ,Maharashtra,2000,80,18.53,14.0,Series B ,Yes,03/07/2000,68155 77921
+CMP0296, Indus Dairy Private Limited  ,food processing,SURAT,Gujarat,1964,201,40.17,1.4,Bootstrapped,YES,1964-11-09,+91 90340 22842
+CMP0246,mahalaxmi retail pvt ltd,Retail,Mumbai,Maharashtra,1995,532,143.6,16.7,Series C,No,1996-06-28,+91 97474 49037
+CMP0043,KONARK LOGISTICS PRIVATE LIMITED,logistics,,Kerala,1986,122,20.6,21.0,Series A,No,1988-02-03,7052148774
+CMP0096,ujwal logistics pvt. ltd.,Logistics,SURAT,Gujarat,2019,515,118.84,0.5,Series B,Y,2020-07-04,9861465684
+CMP0153,Himalaya Academy Pvt Ltd,Education,Jaipur,Rajasthan,1988,331,81.02,10.2,Bootstrapped,Yes,1990-05-19,+91 68398 12467
+CMP0269,Deccan Agro PVT LTD, Agriculture,Mysuru,Karnataka,1969,59,24.32,12.7,Bootstrapped,Yes,1969-03-12,NA
+CMP0300,shree agri products pvt. ltd.,AGRICULTURE,Surat,Gujarat,1963,28,7.84,0.0,SERIES A,Yes,17/06/1964,89988 38572
+CMP0218,Aryan Fabrics Pvt Ltd,Textiles,Delhi,Delhi,1976,204,52.52,,Series C,Yes,09/12/1978,9127244160
+CMP0230,Malabar Logistics Pvt Ltd,Logistics,Mysuru,Karnataka,1972,18,8.62,16.9, Seed,Yes,12/05/1972,+91-8201086986
+CMP0115,Deccan Mart Pvt Ltd,,Mysuru,Karnataka,1998,135,26.27,28.4,Bootstrapped,Yes,"July 24, 2000",+91 77518 55467
+CMP0235,Kaveri Academy Pvt Ltd,Education,Delhi,Delhi,1981,30,16.79 Cr,18.7,Bootstrapped,N,22-Oct-1982,06527264682
+CMP0220,Deccan Healthcare Private Limited,Pharma,Jaipure,Rajasthan,1967,830,180.85 Cr,10.3, Bootstrapped,Yes,1967-01-24,
+CMP0242,HIMALAYA SOFT SOLUTIONS PVT LTD,IT services,Surat,Gujarat,1992,206,53.8,7.0,Bootstrapped,0,26/08/1993,64304 08136
+CMP0062, Vijaya Logistics Pvt Ltd  ,Logistics ,bengaluru,karnataka,1980,79,13.97,2.1,Seed ,Y,1980-11-04,+91-6556073651
+CMP0087,krishna labs pvt ltd,Pharma,MYSURU,Karnataka,NA,91,20.88,7.7,Series C,No,11-May-1970,91051 38814
+CMP0086,Ujwal Foods Pvt Ltd,Food Processing,Pune,MAHARASHTRA,1988,257,44.24,16.1,Series A,Yes,02-Apr-1988,72381 71310
+CMP0196,himalaya fabrics private limited,Textiles,Ahmedabad,Gujarat,2015,107,,19.2,Seed,Y,2016-12-02,90815 42555
+CMP0253,Nandi Healthcare Pvt. Ltd.,Pharma,,Delhi,2017,83,37.37,10.0,bootstrapped,No,2017-10-02,65971 81965
+CMP0038,Himalaya Infosystems Pvt Ltd,IT Services,bengaluru,Karnataka,1979,139,67.67,7.6,Bootstrapped,no,17-Jul-1981,94827 53464
+CMP0003,Mahalaxmi Fabrics Pvt Ltd,Textiles,bangalore,karnataka,1989,236,71.66,11.2,Bootstrapped ,Yes,20/03/1990,09321223307
+CMP0134,himalaya retail pvt ltd,RETAIL,mysuru,Karnataka,2008,37,7.26,17.5,Series C,Yes,"November 04, 2008",07093231314
+CMP0017,Shree Textiles Pvt Ltd,Textiles,Chennai,TamilNadu,1987,390,108.83,5.3, Seed,Yes,07-Sep-1987,82883 14366
+CMP0237,NAVYA SOFT SOLUTIONS PVT LTD,IT Services, Delhi,Delhi,2004,661,140.32,,SEED,0,06/06/2004,+91-8397501352
+CMP0211,Konark Realty Pvt. Ltd.,REAL ESTATE,hyderabad,TELANGANA,1995,198,55.83,8.0,Bootstrapped,N,07-May-1996,null
+CMP0102,Sri Realty Pvt Ltd,Real Estate,Kolkata,West Bengal,1999,109,35.27,-0.2,Series A ,No,16/08/2001,67263 77921
+CMP0181,Vaidehi Weavers Pvt. Ltd.,Textiles,JAIPUR,Rajasthan,1966,185,44.2,16.5,Series C,Yes,11/06/1966,+91 97054 58150
+CMP0194,Nandi Retail Private Limited,Retail,Coimbatore ,Tamil Nadu,1979,56,9.73,16.0,Bootstrapped,Yes,06/02/1979,+91-7242283782
+CMP0091,krishna industries pvt ltd,Manufacturing,mysuru,Karnataka,2022,63,24.27,13.4,Seed,Yes,2022-01-26,97244 07926
+CMP0159,Mahalaxmi  Mart Pvt Ltd,RETAIL,NA,Delhi,2013,201,78.9,13.9,Series A,0,28/07/2013,98901 97409
+CMP0279,Malabar Soft Solutions Pvt Ltd,IT Services,Mumbai ,Maharashtra,2018,45,12.26,10.2,Series C,Yes,2018-09-13,08472013146
+CMP0283,konark edutech pvt ltd,EDUCATION,JAIPUR,Rajasthan,2001,26,10.91,21.2,Seed,N,16/11/2001,NA
+CMP0157, Himalaya Logistics Pvt Ltd  ,Logisitcs, Indore,MADHYA PRADESH,1983,119,₹43.98 Cr,7.2,Series A ,Yes,27/01/1985,+91 89508 58105
+CMP0111,Deccan Agri Products Pvt Ltd,Agriculture,Mysuru,Karnataka,,NA,16.34,14.7,Series A ,No,1973-05-15,+91-7734743506
+CMP0175,Surya Cargo Private Limited,Logistics,Mumbai,maharashtra,,96,34.29,8.8,seed,0,1988-06-24,+91 94776 13251
+CMP0268,Sri Foods Pvt Ltd,Food Processing ,Hyderabad,TELANGANA,1983,141,23.93,6.6,Series A,N,1984-09-08,+91-9022228670
+CMP0108, Deccan Traders Pvt Ltd  ,Retail,Mumbai,Maharashtra,1965,247,132.7,1.1,Bootstrapped,No,"November 22, 1965",08582254552
+CMP0061,namma technologies pvt ltd,IT Services,Pune,Maharashtra ,1989,64,15.03,14.4,SERIES C,no,12/03/1989,+91 76983 21818
+CMP0125,Shree Dairy Pvt Ltd,Food Processing,Lucknow,UttarPradesh,2009,51,10.62,19.2,Seed,N,07/04/2011,09747837982
+CMP0129,Mahalaxmi Steel Pvt. Ltd.,Manufactring,Surat,Gujarat,null,149,25.86,14.1, Bootstrapped,Yes,15-Jan-2018,06563966579
+CMP0090,ujwal dairy pvt ltd,food processing,surat,Gujarat,1961,152,54.97,-0.9,null,yes,20-Jul-1962,
+CMP0203,TUNGABHADRA TEXTILES PVT LTD,Textiles,coimbatore,Tamil Nadu,N/A,120,40.25,null,Series A,Y,1993-12-14,08691980067
+CMP0240,tungabhadra edutech pvt. ltd., Education,Pune,Maharashtra,1972,405,79.23,7.4,Seed ,yes,"July 19, 1974",+91 92058 45020
+CMP0206,Nandi Logistics Pvt Ltd,Logistics,Bengaluru,Karnataka,1998,26,4.92,9.5,Seed,No,09/11/2000,09430509549
+CMP0148,Kaveri Transport pvt ltd,Logistics,Chennai,Tamil Nadu ,1972,156,30.03,4.2,Seed,Yes,08/12/1974,+91-7241676631
+CMP0143,Annapurna Farms Pvt Ltd,NA,Bengaluru,Karnataka,2011,41,11.41,25.9, Bootstrapped,0,16-May-2012,6473011125
+CMP0217, Aryan Agro pvt ltd  ,Agriculture,Mumbai,Maharashtra,2018,438,74.22,14.7,Seed,Yes,19/04/2018,07699423402
+CMP0095,Kaveri Technologies Pvt Ltd,IT Services,Indor,Madhya Pradesh,1977,129,38.02,11.8,Seed,Yes,10-Apr-1979,8238024824
+CMP0013,Mahalaxmi Infosystems pvt ltd,IT Services,lucknow,Uttar Pradesh,2011,,59457.38,-3.2,Series A,No,2011-11-19,68174 14333
+CMP0018,Kaveri  Pharma Pvt Ltd,PHARMA,Lucknow,Uttar Pradesh,1991,1960,333.93,23.7,Series B ,1,,7904248611
+CMP0025,Himalaya Transport Pvt Ltd,,Mysuru,Karnataka,1961,143,28.54,18.2,Bootstrapped,no,07-Nov-1962,8822542821
+CMP0114,Himalaya Weavers pvt ltd,TEXTILES, Hyderabad,Telangana,1983,394,80.99,23.7,SEED,Yes,1984-11-16,09527026514
+CMP0151,Lakshmi Realty PVT LTD, Real Estate,Lucknow,Uttar Pradesh,1960,159,33.68,-310.0,Series B,Yes,21-May-1960,07512014044
+CMP0132,namma fabrics pvt ltd,Textiles,Mysuru,Karnataka,1981,60,14.87,11.9,Series A ,No,08/03/1981,08063778342
+CMP0177,namma soft solutions pvt ltd,IT Services,Ahmedabad,Gujarat,2018,280,126.98,18.3,Bootstrapped,Yes,09/11/2020,92506 42853
+CMP0172,Namma Spices Pvt Ltd,FOOD PROCESSING,ahmedabad,Gujarat,NA,158,66.58,14.8,seed,Yes,19/11/1974,+91-8273332094
+CMP0053,Surya Farms Private Limited,Agriculture,New Delhi,DELHI,1995,764,127.87,8.5,Bootstrapped,Y,17-Jun-1995,6009494809
+CMP0154,Tungabhadra Agri Products Pvt Ltd,Agricultur,Lucknow,uttar pradesh,NA,123,41.07,13.1,Series B,No,14/02/1963,08158844536
+CMP0165,Himalaya Foods Pvt Ltd,Food Procesing,Delhi,DELHI,2022,144,27.39,11.6,Seed ,Y,2022-05-13,09546577079
+CMP0194,Nandi Retail Private Limited,Retail,Coimbatore ,Tamil Nadu,1979,56,9.73,16.0,Bootstrapped,Yes,06/02/1979,+91-7242283782
+CMP0142,Vaidehi Spices Private Limited,Food processing,Jaipure,Rajasthan ,2007,137,26.37,-0.5,Bootstrapped,Yes,25-Feb-2008,+91 88918 71337
+CMP0089,Himalaya Developers Pvt Ltd,Real Estate,Kochi,Kerala ,1983,30,13.57,10.2,Bootstrapped,0,03/11/1983,
+CMP0257,Namma Agri Products PVT LTD,Agriculture ,Kolkata,West Bengal,2018,287,127.1,5.2,,Yes,2020-08-17,09770306748
+CMP0019,Lakshmi Academy Private Limited,Education,hyderabad,Telangana ,1961,17,4.66,N/A,Series C,Yes,1962-12-21,null
+CMP0178,Ujwal Engineering Works Pvt. Ltd.,Manufacturing,Chennai,Tamil Nadu,2003,181,40.18,11.2,Seed ,N,2005-05-01,69002 94819
+CMP0074,KRISHNA LABS PVT LTD, Pharma,pune,Maharashtra,1989,131,40.83,,Seed,Yes,1990-12-14,+91 63302 90119
+CMP0193,Shree Realty Pvt Ltd,Real Estate,Surat,Gujarat,1994,542,101.32,N/A,Listed ,0,1995-06-13,+91-7721878105
+CMP0041, Krishna Engineering Works Pvt Ltd  , Manufacturing,Delhi,Delhi,1976,547,96.7,10.4, Seed,Y,1978-01-27,9868906410
+CMP0292,Ujwal Steel Pvt Ltd,Manufacturing,Ahmedabad,GUJARAT,1992,86,22.83,8.7, Bootstrapped,1,"November 17, 1992",+91-9254132327
+CMP0251,GANGA WEAVERS PVT. LTD.,Textile,Chennai ,Tamil Nadu,2003,26,11.82,8.0,Seed,Yes,"February 19, 2005",06856251272
+CMP0198,Shree Realty Pvt Ltd,Real Estate,surat,Gujarat,1965,26,₹8.59 Cr,7.1,Bootstrapped,0,09-Jun-1966,08149042329
+CMP0008,VAIDEHI STEEL PVT LTD,Manufacturing ,Chennai ,TAMIL NADU,2016,188,36.67,13.9,Seed,Yes,08/01/2018,8837261675
+CMP0097, Ujwal Soft Solutions pvt ltd  ,it services,Bengaluru,Karnataka,1966,262,43.54,24.3, Listed,Yes,1968-11-27,7886423516
+CMP0075,Sahyadri Soft Solutions Pvt Ltd,IT Services, Hyderabad,Telangana,2001,1831,744.12,5.8,Bootstrapped,YES,20/07/2002,9952102328
+CMP0051,HIMALAYA SPICES PVT LTD,Food Processing,Mumbai,Maharashtra,2004,250000,48.31,14.2,Series C ,Y,2005-10-20,+91-9780882031
+CMP0150,indus textiles pvt ltd,Textiles,bengaluru,Karnataka,1971,12,2.67 Cr,-3.1,Series A ,No,1972-01-10,98634 61987
+CMP0133,Ganga Realty Private Limited,Real Estate,DELHI,Delhi ,2022,66,15.15,19.6, Seed,Yes,"June 06, 2024",+91-8957382539
+CMP0079, Shree Spices Private Limited  ,Food Processing,COIMBATORE,tamil nadu,1987,,166.29,6.2,Listed,YES,24/02/1989,6533142044
+CMP0289, Nandi Institute Pvt Ltd  ,Education,CHENNAI,tamil nadu,2010,371,77.76,14.7,BOOTSTRAPPED,Yes,25/01/2010,+91-7429650273
+CMP0232,Kaveri Soft Solutions Pvt Ltd,IT services,null,Rajasthan,1987,269,125.24,12.8,Seed,No,"January 27, 1988",null
+CMP0005,ARYAN AGRO PVT. LTD.,Agriculture,KOCHI,Kerala,2007,53,13.16,10.3,Series B ,Yes,2008-12-09,+91-7888539336
+CMP0144,Ujwal Constructions Pvt Ltd,Real Estate ,Ahmedabad,Gujarat,2015,113,34.33,15.4, Series A,Y,2017-04-08,65360 23875
+CMP0152,NAVYA STEEL PVT LTD,Manufacturing,Mumbai,Maharashtra,1985,145,60.88,7.0,Series A ,Yes,24-Sep-1987,+91 69074 32769
+CMP0118,Ujwal Fabrics pvt ltd,Textiles,surat,Gujarat,1964,181,60.87,1.7,Series A,N,"November 03, 1964",
+CMP0282,Vaidehi Industries pvt ltd,MANUFACTURING,Surat,Gujarat,1996,262,61.83,25.1,Seed ,Yes,,+91-6870415692
+CMP0287,surya foods private limited,Food Processing,Surat,Gujarat,1977,145,88.71,,Seed,1,1977-05-10,08448553961
